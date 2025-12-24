@@ -1,0 +1,98 @@
+.services-item {
+    width: 100%;
+    max-width: 430px;
+    position: relative;
+    background-color: #fff;
+    border: 1px solid #F1F5F9;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+
+    >span {
+        position: absolute;
+        top: 12px;
+        right: 12px;
+        display: flex;
+        border: 1px solid rgba(241, 245, 249, 255);
+        border-radius: 12px;
+        background: rgba(255, 255, 255, 0.9);
+        padding: 5px 12px;
+
+        img {
+            padding-right: 4px;
+        }
+    }
+
+    >img {
+        height: calc(100% * 9/16);
+        max-height: 214px;
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+    }
+}
+
+.services-item__description {
+    padding: 20px;
+
+    h2 {
+        color: rgba(15, 23, 42, 255);
+        font-family: Inter;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 22.5px;
+        margin-bottom: 7px;
+    }
+
+    p {
+        color: rgba(100, 116, 139, 255);
+        font-family: Inter;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+        border-bottom: 1px solid rgba(241, 245, 249, 255);
+        padding-bottom: 17px;
+    }
+}
+
+.services-item__price {
+    padding-top: 23px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    span {
+        color: rgba(15, 23, 42, 255);
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 28px;
+    }
+
+    button {
+        color: rgba(15, 23, 42, 255);
+        font-family: Inter;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        border-radius: 8px;
+        background-color: rgba(241, 245, 249, 255);
+        padding: 8px 16px;
+        transition: all 0.3s ease;
+
+        &::before {
+            content: url('../../assets/services/add-icon.svg');
+            position: relative;
+            top: 3px;
+            right: 3px;
+        }
+
+        &:active {
+            background-color: #e2e8f0;
+        }
+
+        &:disabled {
+            opacity: 0.5;
+        }
+    }
+}

@@ -1,0 +1,8 @@
+<svg viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12.000000" height="12.000000" fill="none">
+	<rect id="svg" width="12.000000" height="12.000000" x="0.000000" y="0.000000" />
+	<path id="14243" d="M1.5 1L1.5 4.5C1.5 5.05 1.95 5.5 2.5 5.5L4.5 5.5C4.67554 5.5 4.84798 5.45379 5 5.36603C5.15202 5.27826 5.27826 5.15202 5.36603 5C5.45379 4.84798 5.5 4.67554 5.5 4.5L5.5 1" fill-rule="nonzero" stroke="rgb(30,41,59)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+	<path id="14244" d="M3.5 1L3.5 11" stroke="rgb(30,41,59)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+	<path id="14245" d="M10.5 11L10.5 7.5L10.5 1C10.0612 1 9.63005 1.11552 9.25 1.33494C8.86995 1.55436 8.55436 1.86995 8.33494 2.25C8.11552 2.63005 8 3.06116 8 3.5L8 6.5C8 7.05 8.45 7.5 9 7.5L10.5 7.5" fill-rule="nonzero" stroke="rgb(30,41,59)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+	<rect id="path.[object SVGAnimatedString]" width="4.000000" height="5.000000" x="2.000000" y="1.000000" />
+	<rect id="path.[object SVGAnimatedString]" width="2.500000" height="10.000000" x="8.000000" y="1.000000" />
+</svg>

@@ -1,0 +1,94 @@
+.header {
+    background-color: #fff;
+    border: 1px solid rgba(226, 232, 240, 255);
+    padding-block: 18px;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: 1380px;
+    padding-inline: 15px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.header__title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.header__description {
+    display: flex;
+    flex-direction: column;
+}
+
+.header__description-title {
+    color: rgba(15, 23, 42, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: -0.5px;
+}
+
+.header__description-text {
+    color: rgba(100, 116, 139, 255);
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+}
+
+.header__line {
+    display: inline-block;
+    width: 2px;
+    height: 20px;
+    background-color: rgba(203, 213, 225, 255);
+}
+
+.header__info {
+    width: 100%;
+    max-width: 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__user-link {
+    color: rgba(71, 85, 105, 255);
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+
+    &::before {
+        content: url('../../assets/header/user-icon.svg');
+        position: relative;
+        top: 3px;
+        padding-right: 4px;
+    }
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.header__user-flight-info {
+    color: rgba(37, 99, 235, 255);
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+@media (min-width: 572px) {
+
+    .wrapper {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}

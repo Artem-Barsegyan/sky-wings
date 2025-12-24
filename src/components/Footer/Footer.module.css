@@ -1,0 +1,16 @@
+.footer {
+    background-color: #fff;
+    border: 1px solid rgba(226, 232, 240, 255);
+    padding-block: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer__copyright {
+    color: rgba(148, 163, 184, 255);
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}

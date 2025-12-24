@@ -1,0 +1,16 @@
+<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40.000000" height="40.000000" fill="none" customFrame="url(#clipPath_0)">
+	<defs>
+		<clipPath id="clipPath_0">
+			<rect width="40.000000" height="40.000000" x="0.000000" y="0.000000" rx="8.000000" fill="rgb(255,255,255)" />
+		</clipPath>
+		<clipPath id="clipPath_1">
+			<rect width="24.000000" height="24.000000" x="8.000000" y="8.000000" fill="rgb(255,255,255)" />
+		</clipPath>
+	</defs>
+	<rect id="div.bg-brand-600 text-white p-2 rounded-lg" width="40.000000" height="40.000000" x="0.000000" y="0.000000" rx="8.000000" fill="rgb(37,99,235)" fill-opacity="255" />
+	<g id="svg" clip-path="url(#clipPath_1)" customFrame="url(#clipPath_1)">
+		<rect id="svg" width="24.000000" height="24.000000" x="8.000000" y="8.000000" />
+		<path id="14287" d="M24 19L27.5 15.5C29 14 29.5 12 29 11C28 10.5 26 11 24.5 12.5L21 16L12.8 14.2C12.3 14.1 11.9 14.3 11.7 14.7L11.4 15.2C11.2 15.7 11.3 16.2 11.7 16.5L17 20L15 23L12 23L11 24L14 26L16 29L17 28L17 25L20 23L23.5 28.3C23.8 28.7 24.3 28.8 24.8 28.6L25.3 28.4C25.7 28.1 25.9 27.7 25.8 27.2L25.8 27.2L24 19Z" fill-rule="nonzero" stroke="rgb(255,255,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+		<rect id="path.[object SVGAnimatedString]" width="18.190001" height="18.000000" x="11.000000" y="10.000000" />
+	</g>
+</svg>

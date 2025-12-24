@@ -1,0 +1,12 @@
+<svg viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12.000000" height="12.000000" fill="none">
+	<rect id="svg" width="12.000000" height="12.000000" x="0.000000" y="0.000000" />
+	<path id="14226" d="M3 10C2.82446 10 2.65202 9.95379 2.5 9.86602C2.34798 9.77826 2.22174 9.65202 2.13397 9.5C2.04621 9.34798 2 9.17554 2 9L2 4C2 3.82446 2.04621 3.65202 2.13397 3.5C2.22174 3.34798 2.34798 3.22174 2.5 3.13397C2.65202 3.04621 2.82446 3 3 3L9 3C9.17554 3 9.34798 3.04621 9.5 3.13397C9.65202 3.22174 9.77826 3.34798 9.86602 3.5C9.95379 3.65202 10 3.82446 10 4L10 9C10 9.17554 9.95379 9.34798 9.86602 9.5C9.77826 9.65202 9.65202 9.77826 9.5 9.86603C9.34798 9.95379 9.17554 10 9 10" fill-rule="nonzero" stroke="rgb(30,41,59)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+	<path id="14227" d="M4 9L4 2C4 1.82446 4.04621 1.65202 4.13397 1.5C4.22174 1.34798 4.34798 1.22174 4.5 1.13397C4.65202 1.04621 4.82446 1 5 1L7 1C7.17554 1 7.34798 1.04621 7.5 1.13397C7.65202 1.22174 7.77826 1.34798 7.86603 1.5C7.95379 1.65202 8 1.82446 8 2L8 9" fill-rule="nonzero" stroke="rgb(30,41,59)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+	<path id="14228" d="M5 10L7 10" stroke="rgb(30,41,59)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+	<circle id="14229" cx="8" cy="10" r="1" stroke="rgb(30,41,59)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+	<circle id="14230" cx="4" cy="10" r="1" stroke="rgb(30,41,59)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+	<rect id="path.[object SVGAnimatedString]" width="8.000000" height="7.000000" x="2.000000" y="3.000000" />
+	<rect id="path.[object SVGAnimatedString]" width="4.000000" height="8.000000" x="4.000000" y="1.000000" />
+	<rect id="circle.[object SVGAnimatedString]" width="2.000000" height="2.000000" x="7.000000" y="9.000000" />
+	<rect id="circle.[object SVGAnimatedString]" width="2.000000" height="2.000000" x="3.000000" y="9.000000" />
+</svg>
