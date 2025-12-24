@@ -31,11 +31,10 @@ const SelectedService = ({ selectedServices, setSelectedServices }: SelectedServ
                                 <span>{price} ₽</span>
                             </div>
                         </div>
-                        <div className={styles['selected-services__item-close-btn']}>
-                            <img
-                                src={close}
-                                alt="close"
-                                onClick={() => handleDeleteBtn(service)} />
+                        <div
+                            className={styles['selected-services__item-close-btn']}
+                            onClick={() => handleDeleteBtn(service)}>
+                            <img src={close} alt="close" />
                         </div>
                     </div>
                 )
