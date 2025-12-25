@@ -5,7 +5,8 @@
 }
 
 .cart__item {
-    min-width: 424px;
+    width: 100%;
+    max-width: 424px;
 
     a {
         text-align: center;
@@ -115,7 +116,8 @@
 }
 
 @media (min-width: 1340px) {
-    .cart {
+    .cart__item {
+        min-width: 424px;
         padding-top: 50px;
     }
 }
